@@ -25,6 +25,10 @@ body div p {
   margin-top: 2em;
 }
 
+.editable {
+  color: red;
+}
+
 body div input {
   float: right;
   border-radius: none;
